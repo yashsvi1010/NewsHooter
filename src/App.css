@@ -25,6 +25,7 @@ body {
   mix-blend-mode: hard-light;
 }
 .nav-link {
+  font-weight: bolder;
   border-radius: 10rem;
 }
 .nav-link:hover {
